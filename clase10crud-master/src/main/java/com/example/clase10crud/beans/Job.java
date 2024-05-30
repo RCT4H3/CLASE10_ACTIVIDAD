@@ -4,7 +4,7 @@ public class Job {
     private String jobId;
     private String jobTitle;
     private int minSalary;
-    private int maxSalary;
+    private int maxSalary; //ola
 
     public String getJobId() {
         return jobId;
