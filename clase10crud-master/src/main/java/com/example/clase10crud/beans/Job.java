@@ -6,6 +6,7 @@ public class Job {
     private int minSalary;
     private int maxSalary; //ola
     //ola prueba2 git
+    //soy Nilo p1
 
     public String getJobId() {
         return jobId;
