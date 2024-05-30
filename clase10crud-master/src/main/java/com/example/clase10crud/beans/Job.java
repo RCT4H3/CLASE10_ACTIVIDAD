@@ -5,6 +5,7 @@ public class Job {
     private String jobTitle;
     private int minSalary;
     private int maxSalary; //ola
+    //ola prueba2 git
 
     public String getJobId() {
         return jobId;
