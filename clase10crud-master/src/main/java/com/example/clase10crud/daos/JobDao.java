@@ -86,7 +86,7 @@ public class JobDao {
             throw new RuntimeException(e);
         }
 
-        String url = "jdbc:mysql://localhost:3306/hr";
+        String url = "jdbc:mysql://localhost:3306/employess";
         String username = "root";
         String password = "root";
 
